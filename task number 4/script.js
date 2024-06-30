@@ -15,6 +15,7 @@ document.getElementById("array").innerHTML = numbers;
     }
 
       console.log(sum);
+document.getElementById("sum").innerHTML = sum;
 sum=0;
 }
 
