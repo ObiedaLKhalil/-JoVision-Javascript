@@ -1,3 +1,5 @@
+
+function clickMe() {
 var numbers = [];
 for (var i = 0; i <= 100; i++) {
     numbers.push(i);
@@ -5,8 +7,6 @@ for (var i = 0; i <= 100; i++) {
 }
 document.getElementById("array").innerHTML = numbers;
 
-
-function clickMe() {
 
     var sum = 0;
 
